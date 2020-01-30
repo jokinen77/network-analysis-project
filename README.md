@@ -1,5 +1,5 @@
 # network-analysis-project
-Network Analysis 2020, group project
+University of Helsinki, Network Analysis 2020, group project
 
 ## Instructions
 
