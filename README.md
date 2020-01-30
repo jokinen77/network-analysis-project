@@ -18,4 +18,6 @@ ipython kernel install --user --name=network-analysis
 conda deactivate
 conda activate network-analysis
 jupyter lab
+pip install --user ipykernel
+python -m ipykernel install --user --name=network-analysis
 ```
